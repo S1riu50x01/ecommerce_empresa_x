@@ -30,3 +30,7 @@ __Melhoria 1__, _Melhoria 2 e etc..._
 #### Imagem Local
 
 ![Wallpaper](img/fzgoafcfpqo81.png)
+
+#### Imagem externa
+
+![Logo PHP](https://logos-download.com/wp-content/uploads/2016/09/PHP_logo.png)
