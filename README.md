@@ -40,3 +40,5 @@ __Melhoria 1__, _Melhoria 2 e etc..._
 [Google](https://www.google.com/)
 
 [https://www.youtube.com](https://www.youtube.com)
+
+Contribuidor principal: https://github.com/S1riu50x01/
