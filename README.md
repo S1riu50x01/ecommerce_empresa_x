@@ -26,3 +26,7 @@ __Melhoria 1__, _Melhoria 2 e etc..._
     3. CSS diferente para grupo de clientes
 2. Integração com outros pagamentos
 3. Sitema de bonus primeira compra
+
+#### Imagem Local
+
+![Wallpaper](img/fzgoafcfpqo81.png)
