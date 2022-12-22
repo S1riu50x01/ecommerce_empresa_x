@@ -42,3 +42,5 @@ __Melhoria 1__, _Melhoria 2 e etc..._
 [https://www.youtube.com](https://www.youtube.com)
 
 Contribuidor principal: https://github.com/S1riu50x01/
+
+[![Logo do PHP](https://logos-download.com/wp-content/uploads/2016/09/PHP_logo.png)](https://github.com/S1riu50x01/)
